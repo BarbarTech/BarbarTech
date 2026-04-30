@@ -30,4 +30,4 @@ and pushing systems to do more than they normally do.
 Most of my work is experimental, exploratory and focused on learning by building.
 
 ## Contact
-LinkedIn [Can Polat](https://linkedin.com/in/canpolatbozkurt)
+LinkedIn [Barbar](https://www.linkedin.com/in/barbartech)
